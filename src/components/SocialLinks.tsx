@@ -6,10 +6,10 @@ interface SocialLinksProps {
 }
 
 const socialLinks = [
-  { icon: FaGithub, href: 'https://github.com', label: 'GitHub' },
-  { icon: FaLinkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-  { icon: FaTwitter, href: 'https://twitter.com', label: 'Twitter' },
-  { icon: FaEnvelope, href: 'mailto:your-email@example.com', label: 'Email' },
+  { icon: FaGithub, href: 'https://github.com/koddharck', label: 'GitHub' },
+  { icon: FaLinkedin, href: 'https://linkedin.com/in/koddharck', label: 'LinkedIn' },
+  { icon: FaTwitter, href: 'https://twitter.com/Divad_Ay', label: 'Twitter' },
+  { icon: FaEnvelope, href: 'mailto:okunoladavida@gmail.com', label: 'Email' },
 ];
 
 export const SocialLinks = ({ className = '' }: SocialLinksProps) => {

@@ -14,8 +14,8 @@ export const ProofOfWork = () => {
       tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       image: '🛒',
       links: {
-        github: 'https://github.com',
-        live: 'https://example.com',
+        github: 'https://github.com/koddharck',
+        live: 'https://web-beta-three-97.vercel.app',
       },
     },
     {
